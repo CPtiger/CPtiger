@@ -1,0 +1,11 @@
+ACKNOWLEDGMENTS:
+
+The vtiger Customer Portal contains the software product of other developers. 
+We wish to acknowledge the following third party software that are used in vtiger Customer Portal:
+
+1. GNU LGPL License for usage of nusoap downloaded from http://sourceforge.net/projects/nusoap
+
+
+
+---------------------------------------------
+© 2005 www.vtiger.com. All Rights Reserved.
