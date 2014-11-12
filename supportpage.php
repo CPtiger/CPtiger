@@ -7,7 +7,7 @@ include("language/$default_language.lang.php");
 function GetForgotPasswordUI($mail_send_message='')
 {
 	$list .= '<html class="bg-gray"><head>';
-	$list .= '<link rel="stylesheet" type="text/css" href="css/style.css">';
+	$list .= '<link rel="stylesheet" type="text/css" href="css/styles.css">';
 	$list .= '<meta name="viewport" content="width=device-width,initial-scale=1" />';
 	$list .= '<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />' ;
     $list .= '<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />' ;
