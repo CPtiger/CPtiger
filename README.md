@@ -3,7 +3,7 @@
 ### CPtiger 1.1 ###
 
 * Responsive Vtiger costumer portal
-* Version 1.1
+* Version 1.1.1
 
 ### How do I get set up? ###
 
