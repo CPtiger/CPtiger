@@ -21,6 +21,7 @@ $app_strings = Array(
 'LNK_LOGOUT'=>'Logout',
 'LBL_SIGN_IN'=>'Login',
 
+
 //Tickets Language Strings
 'LBL_NEW_TICKET'=>'New Ticket',
 'LBL_MY_OPEN_TICKETS'=>'My Open Tickets',
