@@ -7,6 +7,13 @@
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
  ********************************************************************************/
+/*********************************************************************************
+ * This Translation is Based the Native en_us.lang.php File in Customer Portal 5.2.0 
+ * Contributor(s): Antonio Bongiorno TechHelp24.
+ * Language Pack 5.2.0 Revision 1.0a; May 21 2011
+*
+ ********************************************************************************/
+
 
 
 $app_strings = Array(
@@ -17,7 +24,6 @@ $app_strings = Array(
 'LNK_HOME'=>'Home',
 'LBL_WELCOME'=>'Benvenuto',
 'LNK_LOGOUT'=>'Esci',
-'LBL_WELCOME'=>'Benvenuto',
 'LBL_SIGN_IN'=>'Login',
 
 //Tickets Language Strings
